@@ -8,10 +8,7 @@ I will be using datasets from:
 2) ERA-Interim: wind data - http://kage.ldeo.columbia.edu:81/home/.datasets/.ERAInterim/.monthly/
 
 I will try to replicate the figures 4a), 5a), 6b) (timeseries and map projection), 7a), and 10a) in the paper. 
-
-> Figure 5 shows the seasonal variability of the Weddell Gyre. 
-> Figure 6 shows the nonseasonal gyre depth and nonseasonal wind curl. 
-> And if I have time I would like to also try to replicate Figure 7 the sea level difference and change in current speed between Autumn (AMJ) and Spring (OND).
+Description of figures are captioned underneath each.
 
 Binder Link:
 https://hub.mybinder.org/user/stb2145-rces-finalproject-ned64d3b/tree
